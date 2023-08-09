@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Variane Script
+font link: https://www.behance.net/gallery/26855635/Variane-Script-Font
+font author: Boy Moch Tomi
+font author site: https://www.behance.net/workinsstudio
+
+
+icon designer: Ralf Schmitzer
+icon designer link: /ralfschmitzer
+        
+{"bg":"#FDF7EC","icon-gradient-0":"#E56500","icon-gradient-1":"#EBC51D","font":"#342103","slogan":"#483517"}
+      

@@ -27,7 +27,7 @@ export default async function Sidebar() {
     <aside className="flex flex-col h-[87vh] col-span-2 text-sm rounded-lg">
       <div className="flex flex-col items-center p-4 rounded-lg bg-paper-700">
         <Image
-          src="/images/spotify_logo.png"
+          src="/images/vector/default-monochrome.svg"
           width={125}
           height={50}
           alt="Spotify logo"

@@ -20,7 +20,7 @@ module.exports = {
         },
         white: "#FEFFFE",
         purple: "#531640",
-        primary: "#1ED760",
+        primary: "#EBC51D",
         gray: {
           DEFAULT: "#B3B3B3",
           dark: "#4D4D4D",
