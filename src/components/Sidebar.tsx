@@ -30,7 +30,7 @@ export default async function Sidebar() {
           src="/images/vector/default-monochrome.svg"
           width={125}
           height={50}
-          alt="Spotify logo"
+          alt=" logo"
           priority
         />
         <SidebarLinksList />

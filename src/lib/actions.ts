@@ -13,7 +13,7 @@ export const getNewReleases = async (
   session: AuthSession
 ): Promise<Album[]> => {
   return customGet(
-    "https://api.spotify.com/v1/browse/new-releases?country=IN&limit=15",
+    "https://api.spotify.com/v1/browse/new-releases?country=IN&limit=8",
     session
   ).then((data) => data.albums.items);
 };
